@@ -7,6 +7,8 @@ package midtermexam_versiona_extensioncode;
 /**
  *
  * @author udays
+ *THis is the answer to the question 5 
+ *I have making comments in the github
  */
 import java.util.Scanner;
 
